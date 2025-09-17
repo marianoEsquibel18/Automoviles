@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC-01\\source\\repos\\ApiAtumoviles\\ApiAtumoviles\\ApiAutomoviles.csproj": {}
+    "C:\\Users\\PC-01\\Desktop\\ApiAutomoviles\\Automoviles\\ApiAtumoviles\\ApiAtumoviles\\ApiAutomoviles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC-01\\source\\repos\\ApiAtumoviles\\ApiAtumoviles\\ApiAutomoviles.csproj": {
+    "C:\\Users\\PC-01\\Desktop\\ApiAutomoviles\\Automoviles\\ApiAtumoviles\\ApiAtumoviles\\ApiAutomoviles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC-01\\source\\repos\\ApiAtumoviles\\ApiAtumoviles\\ApiAutomoviles.csproj",
+        "projectUniqueName": "C:\\Users\\PC-01\\Desktop\\ApiAutomoviles\\Automoviles\\ApiAtumoviles\\ApiAtumoviles\\ApiAutomoviles.csproj",
         "projectName": "ApiAutomoviles",
-        "projectPath": "C:\\Users\\PC-01\\source\\repos\\ApiAtumoviles\\ApiAtumoviles\\ApiAutomoviles.csproj",
+        "projectPath": "C:\\Users\\PC-01\\Desktop\\ApiAutomoviles\\Automoviles\\ApiAtumoviles\\ApiAtumoviles\\ApiAutomoviles.csproj",
         "packagesPath": "C:\\Users\\PC-01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC-01\\source\\repos\\ApiAtumoviles\\ApiAtumoviles\\obj\\",
+        "outputPath": "C:\\Users\\PC-01\\Desktop\\ApiAutomoviles\\Automoviles\\ApiAtumoviles\\ApiAtumoviles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

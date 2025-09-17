@@ -29,7 +29,7 @@ namespace ApiAutomoviles.Controllers
                 return BadRequest("Marca, Modelo y Color son obligatorios.");
 
             _context.Automoviles.Add(automovil);
-            await _context.SaveChangesAsync(); // 👈 acá va async
+            await _context.SaveChangesAsync();
 
             return CreatedAtAction(nameof(GetById), new { id = automovil.Id }, automovil);
         }
